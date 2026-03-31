@@ -255,9 +255,6 @@ const UI = (() => {
           <div class="hero-actions">
             <a href="pages/solutions.html" class="btn btn-primary btn-lg">Explore Solutions</a>
             <a href="pages/contact.html" class="btn btn-outline btn-lg">Book a Demo</a>
-            <button class="btn btn-ghost btn-lg" id="heroOpenChat">
-              <span>▶</span> Talk to AI
-            </button>
           </div>
           <div class="hero-modules-preview">
             ${ERPData.modules.map(m => `
