@@ -29,9 +29,9 @@ const ERPData = {
       { name: "Lena Kovacs", role: "Head of Customer Success", bio: "Ensures every client achieves measurable ROI within 90 days." }
     ],
     contact: {
-      email: "hello@Deverp.com",
-      phone: "+1 (800) 639-2776",
-      address: "Suite 400, 120 Innovation Drive, San Francisco, CA 94105",
+      email: "#",
+      phone: "#",
+      address: "#",
       social: {
         linkedin: "#",
         twitter: "#",
